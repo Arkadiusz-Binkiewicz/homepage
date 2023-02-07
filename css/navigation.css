@@ -1,0 +1,33 @@
+.navigation__link{
+  text-decoration: none;
+  line-height:1.5;
+  font-size: 18px;
+  padding: 3px;
+}
+
+.navigation__link:link{
+  color:#0c8d00fb
+}
+
+.navigation__link:visited{
+  color:#3000db
+}
+
+.navigation__link:focus{
+  outline: 2px solid rgb(0, 0, 0);
+}
+
+.navigation__link:hover{
+  color:#f157ff;
+  border-bottom: 2px solid;
+}
+
+.navigation__link:active{
+  color:#c70000;
+  border-bottom: none;
+  outline: none;
+}
+
+.navigation__item{
+  list-style: none;
+}

@@ -1,0 +1,11 @@
+.body {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding:25px;
+  background-color: #D8D8D8;
+}
+
+.body--dark{
+  background-color: rgb(71, 71, 71);
+  color: rgb(0, 189, 31);
+}

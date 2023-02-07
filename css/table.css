@@ -1,0 +1,23 @@
+.table{
+    border-collapse:collapse;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.table__header{
+    padding: 10px;
+    font-weight:bold;
+    font-size:25px;
+}
+
+.table__cell{
+    text-align:center;
+    border:solid;
+    border-width:3px;
+    padding: 10px;
+    background-color:#BDFFFA;
+}
+
+.table__cell--header{
+    background-color: #34EADC;
+}
